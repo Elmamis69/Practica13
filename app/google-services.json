@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551541241279",
+    "project_id": "fir-login-7872d",
+    "storage_bucket": "fir-login-7872d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551541241279:android:222536311cfa07106c5d0a",
+        "android_client_info": {
+          "package_name": "felix.adrian.practica13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551541241279-1q5i6o29bnhkrbm19aov6kt2p184m46e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKF9_zr-UdEDV9lFUq8OuD3zUBkgWSiNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551541241279-1q5i6o29bnhkrbm19aov6kt2p184m46e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
